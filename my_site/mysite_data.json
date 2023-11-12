@@ -1,0 +1,972 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-11-03T16:29:14.292Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Типы перечислений",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-11-03T16:29:40.592Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Создание формы в Django",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-11-03T16:30:01.373Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Вид",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-11-03T16:30:32.602Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Шаблон",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-11-03T16:31:08.550Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Ссылка на поле модели",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-11-03T17:05:14.418Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by Ильшат on Вид",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-11-03T17:07:06.716Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Comment by Ильшат on Вид",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-11-03T17:07:12.026Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by Ильшат on Вид",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-11-03T17:10:24.730Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by Ильшат on Вид",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-11-07T07:37:11.278Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "django",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"tagged item\", \"object\": \"\\u0422\\u0438\\u043f\\u044b \\u043f\\u0435\\u0440\\u0435\\u0447\\u0438\\u0441\\u043b\\u0435\\u043d\\u0438\\u0439 tagged with django\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-11-07T07:37:44.562Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Типы перечислений",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-11-07T07:41:35.817Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Создание формы в Django",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-11-07T07:42:00.678Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "Python",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"tagged item\", \"object\": \"\\u0421\\u043e\\u0437\\u0434\\u0430\\u043d\\u0438\\u0435 \\u0444\\u043e\\u0440\\u043c\\u044b \\u0432 Django tagged with Python\"}}, {\"added\": {\"name\": \"tagged item\", \"object\": \"\\u0412\\u0438\\u0434 tagged with Python\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-11-07T08:19:39.377Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Типы перечислений",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-11-07T15:27:46.846Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$wR7SsDA4wT4J2cGUjsERPE$OW9Ap/7fHzdILqobmWBc6Kn5qNRDd28UBrCTQbgFWZg=",
+    "last_login": "2023-11-03T16:28:20.380Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@gamil.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-11-03T16:27:10.744Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "deuqyvlwr4jnlmk6x33p3yb4ez4ua89c",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAGKNO6dO8ZyMCAVA0kpV0Z765NutDtf-_9l_C0rcVvPS1-ZnEWIE6_W6D4SHUHfKd6azK2ui5zkLsiD9rltXF6Xg7376BQL9_amKRj0ANgRNZs3Zi1C4xBWQWsR-M0TdY4QCbMk01WqRwGgGhJJUTx_gDMjzcw:1qyx1w:jx39IO_lA_2dNZv7KG8ok42FJfvRiWg9eHCRCVhmuyo",
+    "expire_date": "2023-11-17T16:28:20.380Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Типы перечислений",
+    "slug": "tipy-perechislenij",
+    "author": 1,
+    "body": "Кроме того, Django предоставляет типы перечислений, которые вы можете подклассифицировать для краткого определения вариантов:\r\n\r\nfrom django.utils.translation import gettext_lazy as _\r\n\r\nclass Student(models.Model):\r\n\r\n    class YearInSchool(models.TextChoices):\r\n        FRESHMAN = 'FR', _('Freshman')\r\n        SOPHOMORE = 'SO', _('Sophomore')\r\n        JUNIOR = 'JR', _('Junior')\r\n        SENIOR = 'SR', _('Senior')\r\n        GRADUATE = 'GR', _('Graduate')\r\n\r\n    year_in_school = models.CharField(\r\n        max_length=2,\r\n        choices=YearInSchool.choices,\r\n        default=YearInSchool.FRESHMAN,\r\n    )\r\n\r\n    def is_upperclass(self):\r\n        return self.year_in_school in {\r\n            self.YearInSchool.JUNIOR,\r\n            self.YearInSchool.SENIOR,\r\n        }\r\nОни работают аналогично enumстандартной библиотеке Python, но с некоторыми изменениями:\r\n\r\nЗначения членов перечисления представляют собой кортеж аргументов, которые можно использовать при создании конкретного типа данных. Django поддерживает добавление дополнительного строкового значения в конец этого кортежа, которое будет использоваться в качестве удобочитаемого имени или label. Это labelможет быть ленивая переводимая строка. Таким образом, в большинстве случаев значение члена будет состоять из двух кортежей. Ниже приведен пример выбора подклассов с использованием более сложного типа данных. Если кортеж не указан или последний элемент не является (ленивой) строкой, автоматически генерируется из имени члена.(value, label)label",
+    "publish": "2023-11-03T16:29:10Z",
+    "create": "2023-11-03T16:29:14.292Z",
+    "update": "2023-11-07T07:37:44.558Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Создание формы в Django",
+    "slug": "sozdanie-formy-v-django",
+    "author": 1,
+    "body": "Мы уже знаем, как должна выглядеть наша HTML-форма. Наша отправная точка для этого в Django такова:\r\n\r\nforms.py¶\r\nfrom django import forms\r\n\r\n\r\nclass NameForm(forms.Form):\r\n    your_name = forms.CharField(label=\"Your name\", max_length=100)\r\nЭто определяет Formкласс с одним полем ( your_name). Мы применили к полю удобную для пользователя метку, которая появится при <label>его отрисовке (хотя в данном случае label указанная нами метка на самом деле та же самая, которая была бы сгенерирована автоматически, если бы мы ее пропустили).\r\n\r\nМаксимально допустимая длина поля определяется параметром max_length. Это делает две вещи. Он помещает maxlength=\"100\"в HTML <input>(поэтому браузер должен в первую очередь препятствовать вводу пользователем большего количества символов). Это также означает, что когда Django получает форму обратно из браузера, он проверяет длину данных.\r\n\r\nУ Formэкземпляра есть is_valid()метод, который запускает процедуры проверки для всех его полей. При вызове этого метода, если все поля содержат действительные данные, он:\r\n\r\nвозвращатьсяTrue\r\nпоместите данные формы в ее cleaned_dataатрибут.\r\nВся форма при первом рендеринге будет выглядеть так:",
+    "publish": "2023-11-03T16:29:16Z",
+    "create": "2023-11-03T16:29:40.564Z",
+    "update": "2023-11-07T07:41:35.813Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Вид",
+    "slug": "vid",
+    "author": 1,
+    "body": "Данные формы, отправляемые обратно на веб-сайт Django, обрабатываются представлением, обычно тем же представлением, которое опубликовало форму. Это позволяет нам повторно использовать часть одной и той же логики.\r\n\r\nЧтобы обработать форму, нам нужно создать ее экземпляр в представлении для URL-адреса, по которому мы хотим ее опубликовать:\r\n\r\nviews.py¶\r\nfrom django.http import HttpResponseRedirect\r\nfrom django.shortcuts import render\r\n\r\nfrom .forms import NameForm\r\n\r\n\r\ndef get_name(request):\r\n    # if this is a POST request we need to process the form data\r\n    if request.method == \"POST\":\r\n        # create a form instance and populate it with data from the request:\r\n        form = NameForm(request.POST)\r\n        # check whether it's valid:\r\n        if form.is_valid():\r\n            # process the data in form.cleaned_data as required\r\n            # ...\r\n            # redirect to a new URL:\r\n            return HttpResponseRedirect(\"/thanks/\")\r\n\r\n    # if a GET (or any other method) we'll create a blank form\r\n    else:\r\n        form = NameForm()\r\n\r\n    return render(request, \"name.html\", {\"form\": form})\r\nЕсли мы придем к этому представлению с GETзапросом, оно создаст пустой экземпляр формы и поместит его в контекст шаблона для отображения. Это то, что мы можем ожидать при первом посещении URL-адреса.\r\n\r\nЕсли форма отправлена ​​с использованием POSTзапроса, представление снова создаст экземпляр формы и заполнит его данными из запроса: это называется «привязкой данных к форме» (теперь это привязанная форма).form = NameForm(request.POST)\r\n\r\nМы вызываем метод формы is_valid(); если нет True, то возвращаемся к шаблону с формой. На этот раз форма больше не пуста ( несвязана ), поэтому HTML-форма будет заполнена ранее отправленными данными, где их можно будет редактировать и исправлять по мере необходимости.\r\n\r\nЕсли is_valid()равно True, теперь мы сможем найти все проверенные данные формы в ее cleaned_dataатрибуте. Мы можем использовать эти данные для обновления базы данных или выполнения другой обработки перед отправкой HTTP-перенаправления в браузер, сообщающего ему, куда идти дальше.",
+    "publish": "2023-11-03T16:29:42Z",
+    "create": "2023-11-03T16:30:01.372Z",
+    "update": "2023-11-03T16:30:01.372Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Шаблон",
+    "slug": "shablon",
+    "author": 1,
+    "body": "ам не нужно много делать в нашем name.htmlшаблоне:\r\n\r\n<form action=\"/your-name/\" method=\"post\">\r\n    {% csrf_token %}\r\n    {{ form }}\r\n    <input type=\"submit\" value=\"Submit\">\r\n</form>\r\nВсе поля формы и их атрибуты будут распакованы в HTML-разметку с помощью языка шаблонов Django.{{ form }}\r\n\r\nЗащита форм и межсайтовых запросов от подделки\r\n\r\nDjango поставляется с простой в использовании защитой от подделки межсайтовых запросов . При отправке формы POSTс включенной защитой CSRF вы должны использовать csrf_tokenтег шаблона, как в предыдущем примере. Однако, поскольку защита CSRF не связана напрямую с формами в шаблонах, этот тег опущен в следующих примерах этого документа.\r\n\r\nТипы ввода HTML5 и проверка браузера\r\n\r\nЕсли ваша форма содержит поле типа URLField, EmailFieldили любого другого целочисленного типа, Django будет использовать типы ввода url, emailи HTML5. numberПо умолчанию браузеры могут применять к этим полям собственную проверку, которая может быть более строгой, чем проверка Django. Если вы хотите отключить это поведение, установите novalidateатрибут тега formили укажите в поле другой виджет, например TextInput.\r\n\r\nТеперь у нас есть рабочая веб-форма, описанная Django Form, обработанная представлением и отображаемая как HTML <form>.\r\n\r\nЭто все, что вам нужно для начала, но платформа форм дает вам гораздо больше возможностей. Как только вы поймете основы описанного выше процесса, вы должны быть готовы понять другие особенности системы форм и узнать немного больше о базовом механизме.",
+    "publish": "2023-11-03T16:30:09Z",
+    "create": "2023-11-03T16:30:32.573Z",
+    "update": "2023-11-03T16:30:32.573Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Ссылка на поле модели",
+    "slug": "ssylka-na-pole-modeli",
+    "author": 1,
+    "body": "тот документ содержит все ссылки на API, Fieldвключая параметры полей и типы полей, предлагаемые Django.\r\n\r\nСмотрите также\r\n\r\nЕсли встроенные поля не помогают, вы можете попробовать django-localflavor ( документация ), который содержит различные фрагменты кода, полезные для определенных стран и культур.\r\n\r\nКроме того, вы можете легко написать свои собственные поля модели .\r\n\r\nПримечание\r\n\r\nТехнически эти модели определены в django.db.models.fields, но для удобства они импортированы в django.db.models; стандартное соглашение заключается в использовании и обращении к полям как .from django.db import modelsmodels.<Foo>Field\r\n\r\nПараметры поля ¶\r\nСледующие аргументы доступны для всех типов полей. Все это необязательно.",
+    "publish": "2023-11-03T16:30:34Z",
+    "create": "2023-11-03T16:31:08.521Z",
+    "update": "2023-11-03T16:31:08.521Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Типы перечислений",
+    "slug": "tipy-perechislenij",
+    "author": 1,
+    "body": "Кроме того, Django предоставляет типы перечислений, которые вы можете подклассифицировать для краткого определения вариантов:\r\n\r\nfrom django.utils.translation import gettext_lazy as _\r\n\r\nclass Student(models.Model):\r\n\r\n    class YearInSchool(models.TextChoices):\r\n        FRESHMAN = 'FR', _('Freshman')\r\n        SOPHOMORE = 'SO', _('Sophomore')\r\n        JUNIOR = 'JR', _('Junior')\r\n        SENIOR = 'SR', _('Senior')\r\n        GRADUATE = 'GR', _('Graduate')\r\n\r\n    year_in_school = models.CharField(\r\n        max_length=2,\r\n        choices=YearInSchool.choices,\r\n        default=YearInSchool.FRESHMAN,\r\n    )\r\n\r\n    def is_upperclass(self):\r\n        return self.year_in_school in {\r\n            self.YearInSchool.JUNIOR,\r\n            self.YearInSchool.SENIOR,\r\n        }\r\nОни работают аналогично enumстандартной библиотеке Python, но с некоторыми изменениями:\r\n\r\nЗначения членов перечисления представляют собой кортеж аргументов, которые можно использовать при создании конкретного типа данных. Django поддерживает добавление дополнительного строкового значения в конец этого кортежа, которое будет использоваться в качестве удобочитаемого имени или label. Это labelможет быть ленивая переводимая строка. Таким образом, в большинстве случаев значение члена будет состоять из двух кортежей. Ниже приведен пример выбора подклассов с использованием более сложного типа данных. Если кортеж не указан или последний элемент не является (ленивой) строкой, автоматически генерируется из имени члена.(value, label)label\r\n\r\nК значениям добавляется свойство .label, чтобы вернуть удобочитаемое имя.\r\n\r\nВ классы перечисления добавлен ряд пользовательских свойств – .choices, .labels, .valuesи .names–, чтобы упростить доступ к спискам этих отдельных частей перечисления. Используйте .choices в качестве подходящего значения для передачи choicesв определении поля.",
+    "publish": "2023-11-07T08:19:05Z",
+    "create": "2023-11-07T08:19:39.350Z",
+    "update": "2023-11-07T08:19:39.350Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Markdown post",
+    "slug": "markdown-post",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n*This is emphasized* and **this is more emphasized**.\r\nHere is a list:\r\n* One\r\n* Two\r\n* Three\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2023-11-07T15:26:44Z",
+    "create": "2023-11-07T15:27:46.839Z",
+    "update": "2023-11-07T15:27:46.839Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 3,
+    "name": "Ильшат",
+    "email": "sharipov_3000@bk.ru",
+    "body": "[jhjij",
+    "created": "2023-11-03T17:05:14.417Z",
+    "update": "2023-11-03T17:10:24.729Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 3,
+    "name": "Ильшат",
+    "email": "sharipov_3000@bk.ru",
+    "body": "комментарии не показываться",
+    "created": "2023-11-03T17:07:06.715Z",
+    "update": "2023-11-03T17:07:06.715Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 5,
+    "name": "Ильшат",
+    "email": "sharipov_3000@bk.ru",
+    "body": "123",
+    "created": "2023-11-03T17:26:18.351Z",
+    "update": "2023-11-03T17:26:18.351Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 4,
+  "fields": {
+    "post": 3,
+    "name": "Ильшат",
+    "email": "sharipov_3000@bk.ru",
+    "body": "Заработало",
+    "created": "2023-11-03T17:49:37.370Z",
+    "update": "2023-11-03T17:49:37.370Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 5,
+  "fields": {
+    "post": 5,
+    "name": "Ильшат",
+    "email": "sharipov_3000@bk.ru",
+    "body": "sda",
+    "created": "2023-11-03T18:06:51.151Z",
+    "update": "2023-11-03T18:06:51.151Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "Python",
+    "slug": "python"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "example.com",
+    "name": "example.com"
+  }
+}
+]
